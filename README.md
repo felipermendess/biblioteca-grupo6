@@ -2,7 +2,7 @@
 
 **Disciplina:** Estrutura de Dados — TED 2026.2  
 **Tema:** Biblioteca  
-**Instituição:** UniSapiens (a confirmar)  
+**Instituição:** UniSapiens
 **Integrantes:** Felipe Rodrigues Mendes Valente; Antony Gabriel Carvalho da Silva
 
 ## Descrição
